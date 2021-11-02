@@ -11,7 +11,7 @@ I am Abhishek, a full-stack developer based in New Delhi, India. I specialize in
 - 👯 I’m looking to collaborate on Instagram and Linkedin community
 - 🤔 My tech stack- MERN & python with django
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/codesabhi/) / [Email](mailto:yadavabhishek241296@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/codesabhi/) / [Email](mailto:yadavabhishek241296@gmail.com) / [Twitter](https://twitter.com/codes_abhi)
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I am a Javascript fanatic and love building cool stuff for web
 
