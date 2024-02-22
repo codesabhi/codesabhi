@@ -5,7 +5,7 @@
 
 ***About me*** --->>> [portfolio](https://beabhishek.netlify.app)
 
-I am Abhishek, a full-stack web developer based in New Delhi, India. I specialize in building software and web applications. I love to write clean code and creating technologies to elevate people. My tech stack mainly consists of - MERN stack - MongoDB, Express JS, React JS, Node Js, Git/Github.
+I am Abhishek, a full-stack web developer and web designer. I specialize in building software and web applications. I love to write clean code and creating technologies to elevate people. My tech stack mainly consists of - MERN stack - MongoDB, Express JS, React JS, Node Js, Git/Github.
 
 - 🔭 I’m currently working on [Exclv.](https://github.com/codesabhi/fullstack-exclv-ecommerce) eCommerce App (MERN)
 - 🌱 I’m currently learning Backend with NodeJs and MongoDB
